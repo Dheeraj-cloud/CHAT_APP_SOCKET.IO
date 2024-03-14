@@ -7,9 +7,9 @@ cd client (In different terminal of vscode)
 npm install                
 npm start       
 
-note: In order to test multiple users follow:
-       1) Please open react app in 2 different browsers or in 2 different tabs.
-       2) Use different user names and same Room number (ex: if user1 starts room number 1 , in order to join the chat with user1 user2 must also put room number as 1) 
+note: In order to test multiple users follow:                                        
+       1) Please open react app in 2 different browsers or in 2 different tabs.                                                       
+       2) Use different user names and same Room number (ex: if user1 starts room number 1 , in order to join the chat with user1 user2 must also put room number as 1)                
 Here You can see the exchange of messages.  
 
 
